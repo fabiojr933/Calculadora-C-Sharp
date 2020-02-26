@@ -1,0 +1,9 @@
+C:\Users\FABIO\source\repos\CaculadoraCSharp\CaculadoraCSharp\bin\Debug\CaculadoraCSharp.exe.config
+C:\Users\FABIO\source\repos\CaculadoraCSharp\CaculadoraCSharp\bin\Debug\CaculadoraCSharp.exe
+C:\Users\FABIO\source\repos\CaculadoraCSharp\CaculadoraCSharp\bin\Debug\CaculadoraCSharp.pdb
+C:\Users\FABIO\source\repos\CaculadoraCSharp\CaculadoraCSharp\obj\Debug\CaculadoraCSharp.csprojAssemblyReference.cache
+C:\Users\FABIO\source\repos\CaculadoraCSharp\CaculadoraCSharp\obj\Debug\CaculadoraCSharp.Properties.Resources.resources
+C:\Users\FABIO\source\repos\CaculadoraCSharp\CaculadoraCSharp\obj\Debug\CaculadoraCSharp.csproj.GenerateResource.cache
+C:\Users\FABIO\source\repos\CaculadoraCSharp\CaculadoraCSharp\obj\Debug\CaculadoraCSharp.exe
+C:\Users\FABIO\source\repos\CaculadoraCSharp\CaculadoraCSharp\obj\Debug\CaculadoraCSharp.pdb
+C:\Users\FABIO\source\repos\CaculadoraCSharp\CaculadoraCSharp\obj\Debug\CaculadoraCSharp.Calculadora.resources
